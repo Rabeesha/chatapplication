@@ -1,0 +1,23 @@
+.join{
+  font-size: 25px;
+  text-align: center;
+}
+.App{
+  text-align: center;
+}
+.text1{
+  margin-bottom: 18px;
+  width: 200px;
+}
+.text2{
+  margin-bottom: 18px;
+  width: 200px;
+
+}
+.joinbtn{
+  background-color: rgb(62, 190, 30);
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top:5px;
+  padding-bottom: 5px;
+}
